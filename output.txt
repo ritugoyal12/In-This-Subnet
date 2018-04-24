@@ -1,0 +1,7 @@
+ip address: 0x62D2EDC0 present in cidr range: 98.210.237.192/26
+ is: True
+ip address: 0x62D2EDC2 present in cidr range: 98.210.237.192/26
+ is: True
+ip address: 0x62D2EDC3 present in cidr range: 98.210.237.192/26
+ is: True
+ip address: 0x62DCEDC9 present in cidr range: 98.210.237.192/26 is: False
