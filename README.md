@@ -11,8 +11,9 @@ The program is built on Python 2.7. It accepts 3 parameters :
   2. ip_subnet.txt
   3. output.txt 
   
--- How to run the program --
-  python socketprogram.py ip_address cidr_range filename(optional param)
+-- How to run the program--
+
+python socketprogram.py ip_address cidr_range filename(optional param)
 
 -- Examples --
 1. The execution returns True if ip address is found in the cidr provided
