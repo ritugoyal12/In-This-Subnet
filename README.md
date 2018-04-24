@@ -5,14 +5,16 @@ The program is built on Python 2.7. It accepts 3 parameters :
 1. the ip address in 32 bit unsigned int
 2. the cidr  range
 3. optional parameter for filename that stores ipaddress ( in 32 bit unsigned) and cidr range. If this parameter is provided, then the output is generated in output.txt file that is located at the same level in the code repo.
-# This repo contains 
+
+--This repo contains--
   1. socketprogram.py
   2. ip_subnet.txt
-  3. output.txt  
-# How to run the program
+  3. output.txt 
+  
+-- How to run the program --
   python socketprogram.py ip_address cidr_range filename(optional param)
 
-# Examples
+-- Examples --
 1. The execution returns True if ip address is found in the cidr provided
                python socketprogram.py 0x62D2EDC2 "98.210.237.192/26"
                Output: True
